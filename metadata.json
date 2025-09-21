@@ -1,0 +1,5 @@
+{
+  "name": "SQL Bug Finder AI",
+  "description": "An intelligent tool that helps developers find and fix bugs in their SQL queries. Upload your database schema, write your query, and let an AI assistant analyze it for errors and suggest improvements.",
+  "requestFramePermissions": []
+}
